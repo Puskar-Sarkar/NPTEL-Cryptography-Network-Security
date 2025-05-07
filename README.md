@@ -18,5 +18,5 @@ The course covers fundamental and advanced topics in Cryptography and Network Se
 ## 📊 My Performance
 - **Final Score**: `77/100`
 - **Certificate ID**: `NPTEL25CS16S549501082`
-- ✅ [View Certificate](https://nptel.ac.in/noc)https://internalapp.nptel.ac.in/NOC/NOC25/SEM1/Ecertificates/106/noc25-cs16/Course/NPTEL25CS16S54950108204279763.pdf
+- ✅ [View Certificate](https://internalapp.nptel.ac.in/NOC/NOC25/SEM1/Ecertificates/106/noc25-cs16/Course/NPTEL25CS16S54950108204279763.pdf)
 
